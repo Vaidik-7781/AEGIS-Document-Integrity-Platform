@@ -1,7 +1,6 @@
-# ⚔ AEGIS v3.0 — Intelligent Document Integrity Platform
+# ⚔ AEGIS — Intelligent Document Integrity Platform
 
 > Real-time, 5-layer document fraud detection engine for banking underwriting.
-> Built for **SuRaksha Hackathon** by Canara Bank · Theme: Real-time Anomaly Detection
 
 ---
 
@@ -86,7 +85,3 @@ npm run build     # Production build → dist/
 ```
 
 ---
-
-## One-Line Pitch
-
-> *"AEGIS is a 5-layer real-time document fraud detection engine combining visual forensics, blockchain proof, AI contradiction analysis, typography fingerprinting, and version history — giving bank underwriters a single trust score before any loan is approved."*
